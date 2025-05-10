@@ -1,4 +1,4 @@
-import 'package:flexunion_test/constants/colors.dart';
+import 'package:flexunion_test/constants/app_colors.dart';
 import 'package:flexunion_test/constants/lozalization.dart';
 import 'package:flexunion_test/feature/frame/widgets/benefit_tile.dart';
 import 'package:flexunion_test/feature/frame/widgets/button/activation_button.dart';
