@@ -47,7 +47,7 @@ class _FrameScreenState extends State<FrameScreen>
     final mediaHeight = MediaQuery.of(context).size.height;
 
     return Scaffold(
-      backgroundColor: AppColors.backgroundColorDark,
+      backgroundColor: Colors.black,
       body: SafeArea(
         child: FrameContent(
           circleSize: _circleSize,
