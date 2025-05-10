@@ -1,4 +1,3 @@
-import 'package:flexunion_test/constants/app_colors.dart';
 import 'package:flexunion_test/constants/lozalization.dart';
 import 'package:flutter/material.dart';
 
@@ -23,7 +22,7 @@ class StorageHeader extends StatelessWidget {
           width: 35,
           height: 35,
           decoration: BoxDecoration(
-            color: AppColors.backgroundColorDark,
+            color: Colors.black,
             borderRadius: BorderRadius.circular(20),
           ),
         ),
